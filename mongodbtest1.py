@@ -13,7 +13,26 @@ d = {
     "email_id":"sdaniel.stephenson@gmail.com",
     "surname":"stephen"
 }
-
+d = {
+    "name":"daniel",
+    "email_id":"sdaniel.stephenson@gmail.com",
+    "surname":"stephen"
+}
+d = {
+    "name":"daniel",
+    "email_id":"sdaniel.stephenson@gmail.com",
+    "surname":"stephen"
+}
+d = {
+    "name":"daniel",
+    "email_id":"sdaniel.stephenson@gmail.com",
+    "surname":"stephen"
+}
+d = {
+    "name":"daniel",
+    "email_id":"sdaniel.stephenson@gmail.com",
+    "surname":"stephen"
+}
 db1 = client['mongodbtest1']
 coll = db1['test']
 coll.insert_one(d )
